@@ -67,48 +67,39 @@ function App() {
   const projects = [
     {
       id: 1,
-      title: "Shopping-flutter-app",
-      desc: "A high-performance e-commerce solution with advanced product discovery and seamless checkout flow.",
-      category: "Mobile Development",
-      image: "https://images.unsplash.com/photo-1557821552-17105176677c?auto=format&fit=crop&w=800&q=80",
-      github: "https://github.com/Alyshbaaleem/Shopping-flutter-app.git",
-      live: "https://github.com/Alyshbaaleem/Shopping-flutter-app.git"
-    },
-    {
-      id: 2,
-      title: "Weather-flutter-app",
+      title: "Weather Flutter App",
       desc: "A dynamic weather forecasting app with real-time updates and localized alerts, powered by GetX state management.",
       category: "Mobile Development",
       image: weatherImg,
-      github: "https://github.com/Alyshbaaleem/Weather-flutter-app.git",
-      live: "https://github.com/Alyshbaaleem/Weather-flutter-app.git"
+      github: "https://github.com/Alyshbaaleem/weather-flutter-app",
+      live: "https://github.com/Alyshbaaleem/weather-flutter-app"
     },
     {
-      id: 3,
-      title: "Grocery-flutter-app",
+      id: 2,
+      title: "Grocery Flutter App",
       desc: "A real-time grocery delivery app with localized inventory management and intelligent order tracking.",
       category: "Mobile Development",
       image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=800&q=80",
-      github: "https://github.com/Alyshbaaleem/Grocery-flutter-app.git",
-      live: "https://github.com/Alyshbaaleem/Grocery-flutter-app.git"
+      github: "https://github.com/Alyshbaaleem/grocery-flutter-app",
+      live: "https://github.com/Alyshbaaleem/grocery-flutter-app"
     },
     {
-      id: 4,
-      title: "flutter_mini_game",
+      id: 3,
+      title: "Flutter Mini Game",
       desc: "An engaging mini-game built with Flutter, featuring smooth animations and modern block-blast mechanics.",
       category: "Mobile Development",
       image: "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=800&q=80",
-      github: "https://github.com/Alyshbaaleem/flutter_mini_game.git",
-      live: "https://github.com/Alyshbaaleem/flutter_mini_game.git"
+      github: "https://github.com/Alyshbaaleem/flutter-mini-game",
+      live: "https://github.com/Alyshbaaleem/flutter-mini-game"
     },
     {
-      id: 5,
-      title: "flutter_fyp_app",
+      id: 4,
+      title: "Flutter FYP App",
       desc: "A comprehensive university management system with modular LMS features and intuitive student-faculty portals.",
       category: "Mobile Development",
       image: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=800&q=80",
-      github: "https://github.com/Alyshbaaleem/flutter_fyp_app.git",
-      live: "https://github.com/Alyshbaaleem/flutter_fyp_app.git"
+      github: "https://github.com/Alyshbaaleem/flutter-fyp-app",
+      live: "https://github.com/Alyshbaaleem/flutter-fyp-app"
     },
   ];
 
@@ -128,7 +119,7 @@ function App() {
             <a href="#portfolio" className={activeHash === "#portfolio" ? "active" : ""}>Portfolio</a>
             <a href="#contact" className={activeHash === "#contact" ? "active" : ""}>Contact</a>
           </div>
-          <a href="/Alishba-portfolio/Alishba_Aleem_Updated_CV_A4.pdf" target="_blank" rel="noopener noreferrer" className="btn btn-nav">Hire Me</a>
+          <a href="/Portfolio/Alishba_Aleem_Updated_CV_A4.pdf" target="_blank" rel="noopener noreferrer" className="btn btn-nav">Hire Me</a>
         </div>
       </nav>
 
