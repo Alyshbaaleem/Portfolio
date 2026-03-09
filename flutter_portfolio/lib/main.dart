@@ -695,11 +695,18 @@ class _PortfolioHomePageState extends State<PortfolioHomePage> {
         'github': 'https://github.com/Alyshbaaleem/Grocery-flutter-app.git'
       },
       {
-        'title': 'University-flutter-app',
+        'title': 'flutter_fyp_app',
         'image': 'assets/projects/project4.png',
         'cat': 'Mobile Development',
         'desc': 'A comprehensive university management system with modular LMS features.',
-        'github': 'https://github.com/Alyshbaaleem/University-flutter-app.git'
+        'github': 'https://github.com/Alyshbaaleem/flutter_fyp_app.git'
+      },
+      {
+        'title': 'flutter_mini_game',
+        'image': 'assets/projects/project1.png',
+        'cat': 'Mobile Development',
+        'desc': 'An engaging mini-game built with Flutter, featuring smooth animations.',
+        'github': 'https://github.com/Alyshbaaleem/flutter_mini_game.git'
       },
     ];
 

@@ -94,21 +94,21 @@ function App() {
     },
     {
       id: 4,
-      title: "e-commerce",
-      desc: "A robust e-commerce framework featuring scalable product architecture and premium digital assets.",
+      title: "flutter_mini_game",
+      desc: "An engaging mini-game built with Flutter, featuring smooth animations and modern block-blast mechanics.",
       category: "Mobile Development",
-      image: "https://images.unsplash.com/photo-1472851294608-062f824d29cc?auto=format&fit=crop&w=800&q=80",
-      github: "https://github.com/Alyshbaaleem/e-commerce.git",
-      live: "https://github.com/Alyshbaaleem/e-commerce.git"
+      image: "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=800&q=80",
+      github: "https://github.com/Alyshbaaleem/flutter_mini_game.git",
+      live: "https://github.com/Alyshbaaleem/flutter_mini_game.git"
     },
     {
       id: 5,
-      title: "University-flutter-app",
+      title: "flutter_fyp_app",
       desc: "A comprehensive university management system with modular LMS features and intuitive student-faculty portals.",
       category: "Mobile Development",
       image: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=800&q=80",
-      github: "https://github.com/Alyshbaaleem/University-flutter-app.git",
-      live: "https://github.com/Alyshbaaleem/University-flutter-app.git"
+      github: "https://github.com/Alyshbaaleem/flutter_fyp_app.git",
+      live: "https://github.com/Alyshbaaleem/flutter_fyp_app.git"
     },
   ];
 
